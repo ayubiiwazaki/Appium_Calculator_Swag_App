@@ -4,12 +4,10 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.time.Duration;
 
-import com.juaracoding.utill.EmailSender;
+
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.testng.Assert;
-import org.testng.AssertJUnit;
-import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
